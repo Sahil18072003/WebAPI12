@@ -1,0 +1,105 @@
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\appsettings.Development.json
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\appsettings.json
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.exe
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.deps.json
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.runtimeconfig.json
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.dll
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.pdb
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET Sahil\WebAPI12\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.csproj.AssemblyReference.cache
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.AssemblyInfoInputs.cache
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.AssemblyInfo.cs
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.csproj.CoreCompileInputs.cache
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI12.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI12.props
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI12.props
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI12.props
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets.pack.json
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets.build.json
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets.development.json
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\scopedcss\bundle\WebAPI12.styles.css
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.csproj.CopyComplete
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.dll
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\refint\WebAPI12.dll
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.pdb
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.genruntimeconfig.cache
+D:\.NET Sahil\WebAPI12\obj\Debug\net7.0\ref\WebAPI12.dll
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\appsettings.Development.json
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\appsettings.json
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.exe
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.deps.json
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.runtimeconfig.json
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.dll
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\WebAPI12.pdb
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET_Sahil\WebAPI12\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.csproj.AssemblyReference.cache
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.AssemblyInfoInputs.cache
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.AssemblyInfo.cs
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.csproj.CoreCompileInputs.cache
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI12.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI12.props
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI12.props
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI12.props
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets.pack.json
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets.build.json
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\staticwebassets.development.json
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\scopedcss\bundle\WebAPI12.styles.css
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.csproj.CopyComplete
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.dll
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\refint\WebAPI12.dll
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.pdb
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\WebAPI12.genruntimeconfig.cache
+D:\.NET_Sahil\WebAPI12\obj\Debug\net7.0\ref\WebAPI12.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\appsettings.json
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\WebAPI12.exe
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\WebAPI12.deps.json
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\WebAPI12.runtimeconfig.json
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\WebAPI12.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\WebAPI12.pdb
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.csproj.AssemblyReference.cache
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.AssemblyInfoInputs.cache
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.AssemblyInfo.cs
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.csproj.CoreCompileInputs.cache
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI12.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI12.props
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI12.props
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI12.props
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\scopedcss\bundle\WebAPI12.styles.css
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.csproj.CopyComplete
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\refint\WebAPI12.dll
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.pdb
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\WebAPI12.genruntimeconfig.cache
+C:\Users\Sahil Dharaviya\Desktop\WebAPI12\obj\Debug\net7.0\ref\WebAPI12.dll
